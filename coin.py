@@ -6,7 +6,7 @@ BITCOIN_PRICE_THRESHOLD = 10000
 BITCOIN_API_URL = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
 headers = {
   'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': '1d311920-4c90-4f9d-93cd-00c35a4e274c',
+  'X-CMC_PRO_API_KEY': 'your API key',
 }
 IFTTT_WEBHOOKS_URL = 'https://maker.ifttt.com/trigger/test_event/with/key/jwVYNxBeSGdJCGueBnirO7cJOxn_fUn2G_XNPvArUJh'
 

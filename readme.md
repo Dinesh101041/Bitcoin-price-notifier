@@ -1,5 +1,5 @@
 ## Bitcoin
-    The project is to send the bitcoin price notifications to Telegram
+   The project is to send the bitcoin price notifications to Telegram
 
 # Dependencies <br>
    Request - for  requeat and response
